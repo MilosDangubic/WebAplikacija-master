@@ -1,0 +1,68 @@
+body {
+	font-family: 'Helvetica', sans-serif
+}
+
+.menu {
+	padding: 10px;
+	text-align:center;
+}
+
+.menu a {
+	margin: 0 10px;
+	color: #033839;
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+table {
+	width: 100%;
+	margin: 20px 0;
+	background: #f8f8f8;
+	font-size: 16px;
+}
+
+th {
+	pading: 10px;
+	font-size: 18px;
+	text-align: center;
+}
+
+td {
+	pading: 10px;
+	font-size: 18px;
+	text-align: center;
+}
+
+td a {
+	display: inline-block;
+	padding: 10px 25px;
+	background: white;
+	margin: 10px 0;
+	color: black;
+	text-decoration: none;
+	opacity: 1;
+}
+
+td a:hover {
+	opacity: 0.8;
+	transition: 0.5s;
+}
+
+input, select {
+	height: 20px;
+	padding: 5px;
+	border-color: #6d6e6e;
+	font-size: 18px;
+}
+
+select {
+	height: 35px;
+}
+
+input[type="submit"] {
+	height: 35px;
+	padding: 5px 25px;
+	background: #000000;
+	color: white;
+}

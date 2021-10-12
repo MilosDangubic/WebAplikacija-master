@@ -1,0 +1,3 @@
+Pera;Peric;pera@email.com;pera;pera;MALE;ADMINISTRATOR;0
+Jovana;Jovanovic;jj@email.com;jovana;jj123;FEMALE;DOMACIN;0
+Stojanka;Novakovic;st.nov@email.com;st.nov;100ja;FEMALE;GOST;0
